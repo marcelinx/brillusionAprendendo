@@ -1,0 +1,138 @@
+@font-face {
+    font-family: fonte01;
+    src: url(Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: fonte02;
+    src: url(PalanquinDark-Bold.ttf);
+}
+@font-face {
+    font-family: fonte03;
+    src: url(PalanquinDark-Regular.ttf);
+}
+.body{
+    padding: 0;
+    margin: 0;
+}
+#parte-colorida{
+    border-radius: 0.8%;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient( 45deg,  #005186, #469EDA);
+}
+.btn-group{
+    margin-left: 30%;
+}
+#btn2{
+    color: #000;
+    background-color: #ffd800;
+    font-family: fonte03;
+}   
+
+#btnGroupDrop1{
+    color: #000;
+    background-color: #ffd800;
+    font-family: fonte03;
+}
+.dropdown-menu a:link{
+    background-color: #fff;
+    color: #000;
+}
+
+#titulo{
+    font-family: fonte02;
+    font-size: 90px;
+    color: #ffd800    ;
+    margin-left: 5%;
+}
+#subtitulo{
+    font-family: fonte03;
+    font-size: 20px;
+    color: #fff;
+    margin-left: 5%;
+}
+#btn3{
+    margin-left: 6%;
+    color: #000;
+    background-color: #ffd800;
+    font-family: fonte03;
+}
+section.images {
+    margin-left: 23%;
+    width: 50vw;
+    display: flex;
+    align-items: initial;
+    justify-content: end;
+    padding: 4rem;
+}
+
+section.images img {
+    width: 100%;
+}
+.pagina-colorida2{
+    border-radius: 0.8%;
+    background: linear-gradient(45deg, #005186, #469EDA );
+}
+#titulo-pequeno{
+    font-size: 16px;
+    color: whitesmoke;
+    font-family: fonte01;
+}
+#titulo-2{
+    font-size: 60px;
+    color: #fff;
+    font-family: fonte02;
+}
+#pequeno-paragrafo{
+    font-size: 16px;
+    color: whitesmoke;
+    font-family: fonte01;
+}
+#textin1{
+    color: #fff;
+    font-family: fonte01;
+}
+#textin2{
+    color: #fff;
+    font-family: fonte01;
+}
+#textin3{
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-family: fonte01;
+}
+#titulo-conheça{
+    font-family: fonte02;
+}
+.fundo-branco{
+    background-color: white;
+    border-radius: 1%;
+}
+#pequeno-paragrafo1{
+    font-family: fonte01;
+
+}
+#titulo-proposito{
+    font-family: fonte02;
+    font-size: 32px;
+}
+#jornada{
+    background: linear-gradient(45deg, #005186, #469EDA )
+}
+#titulo-jornada{
+    color: #fff;
+    font-family: fonte02;
+}
+#botao-jornada{
+    background-color: #ffd800;
+    color: #000;
+    font-family: fonte02;
+}
+.rodape{
+    background-color: #005186;
+}
+#rodape{
+    color: #fff;
+    font-family: fonte01;
+}
